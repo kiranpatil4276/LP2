@@ -1,0 +1,13 @@
+First create folder on desktop
+
+
+git init
+git add .
+git status
+git commit -m "First Commit"
+git config --global user.email "emailid"
+git config --global user.name "username"
+git commit -m "First Commit"
+git remote add origin "link of github respository"
+git remote -v
+git push -u origin master
